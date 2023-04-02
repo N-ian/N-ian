@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @N-ian；
-- 👀 I’m interested in sing,dance,rop和baseketball;
+- 👋 Hi, I’m Hugh；
+- 👀 I’m interested in sing,dance,rop and baseketball;
 - 🌱 I’m currently learning c and linux programming；
 - 💞️ I’m looking to collaborate on learning and communication；
 -ps：Once the world is gone, why ask more about floating life? Just floating life in a dream。
